@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'arial';
+    src: url('./media/fonts/arialbd.ttf') format('truetype');
+  }
+  
+
+  @font-face {
+    font-family: 'courbi';
+    src: url('./media/fonts/courbi.ttf') format('truetype');
+  }
+  
